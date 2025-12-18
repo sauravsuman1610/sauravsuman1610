@@ -65,9 +65,9 @@ I’m a passionate **Software Developer** with strong experience in **Full-Stack
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauravsuman12210691&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauravsuman1610&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsuman12210691&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsuman1610&layout=compact&theme=radical)
 
 ---
 
